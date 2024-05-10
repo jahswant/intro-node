@@ -1,0 +1,20 @@
+{
+  "name": "intro-node",
+  "version": "1.0.0",
+  "description": "Introduction Node.js.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahswant/intro-node.git"
+  },
+  "author": "Jahswant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jahswant/intro-node/issues"
+  },
+  "homepage": "https://github.com/jahswant/intro-node#readme"
+}
